@@ -1,0 +1,30 @@
+body {
+  background: black;
+  color: yellow;
+  font-size: 20;
+}
+
+p {
+  font-size: 20;
+}
+
+#khgj {
+  color: green;
+  text-decoration:line-through;
+}
+
+#khgj:hover {
+  color: red;
+}
+
+.naslov {
+  font-size: 40;
+}
+
+a:visited {
+  color: yellow;
+}
+
+a:hover {
+  color: red;
+}
